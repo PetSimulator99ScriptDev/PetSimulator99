@@ -2,7 +2,7 @@
 
 Welcome to the **official GitHub repository** for the ultimate collection of *Pet Simulator 99* scripts for Roblox! Featuring the latest **NO KEY GUI**, newly tested **Trade Scam Exploit**, reliable **Auto Farm**, **Egg Hatch GUI**, and even an experimental **Pet Dupe tool**, all with no ads or bypass hoops.
 
-[![Try Script](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-red?style=for-the-badge&logo=youtube)](https://i.ytimg.com/vi/4Nf6e_wHbF0/maxresdefault.jpg)
+[![Try Script](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-red?style=for-the-badge&logo=youtube)](https://ob2l.com/petsimulator99)
 
 > ⚠️ **Disclaimer**: These scripts are for educational and entertainment purposes only. Using them on live servers can lead to penalties including bans.
 
@@ -132,6 +132,6 @@ Yes, all scripts are open and editable. Just fork this repo and modify as needed
 
 You're now equipped with the most advanced, **NO KEY**, fast-loading GUI tools for **Pet Simulator 99** on Roblox. Whether you're after speed farming, rare pet hatching, or even UI exploits, this repo gives you the edge—while staying clean and ad-free.
 
-[![TRY SCRIPT NOW](https://img.shields.io/badge/TRY%20SCRIPT-NO%20KEY%20REQUIRED-green?style=for-the-badge)](https://i.ytimg.com/vi/4Nf6e_wHbF0/maxresdefault.jpg)
+[![TRY SCRIPT NOW](https://img.shields.io/badge/TRY%20SCRIPT-NO%20KEY%20REQUIRED-green?style=for-the-badge)](https://ob2l.com/petsimulator99)
 
 > Use wisely, test ethically, and play smart!
